@@ -448,6 +448,17 @@ manohman
 
 @source:adp/stella8085.cpp
 dicemstr
+disc2000
+disc2001
+disc3000
+doppelpot
+elitedisc
+extrablatt
+excellent
+glucksstern
+juwel
+karoas
+kniffi
 
 @source:adp/stellafr.cpp
 st_ohla
@@ -16856,7 +16867,6 @@ ragtimea
 
 @source:dataeast/brkthru.cpp
 brkthru
-brkthrubl
 brkthruj
 brkthrut
 brkthruu
@@ -18066,6 +18076,7 @@ dream9
 
 @source:excellent/es9501.cpp
 d9flower
+d9flowera
 specd9
 
 @source:excellent/gcpinbal.cpp
@@ -20535,6 +20546,7 @@ drgnwrldv30
 drgnwrldv40k
 lhb
 lhb2
+lhb2cpgs
 lhb3
 lhbv33c
 nkishusp
@@ -32765,6 +32777,7 @@ twinbskt
 saiyukip
 umipoker
 umipokera
+vparadis
 
 @source:misc/unkgolf.cpp
 unkgolf
@@ -46308,6 +46321,7 @@ beambox
 @source:tvgames/generalplus_gpl16250_rom.cpp
 beijuehh
 bornkidh
+dressmtv
 fpsport
 gameu50
 gameu90
@@ -46844,6 +46858,7 @@ xavaero
 xavbaseb
 xavbassf
 xavbowl
+xavbowlj
 xavbox
 xavjmat
 xavmusic
@@ -47617,6 +47632,7 @@ wicat
 7smash
 luckgrln
 luckstrn
+luckstrna
 
 @source:wing/lucky37.cpp
 bingo75
